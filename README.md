@@ -1,3 +1,4 @@
+https://media.licdn.com/dms/image/D4D16AQHKuMNNLgr57g/profile-displaybackgroundimage-shrink_350_1400/0/1669237585817?e=1697673600&v=beta&t=TtWJbufWPEemqsJeQ3Ny5Y0lLD9hhlRJdc47xC4y5qY
 <h1 align="center">Hi 👋, I'm Berat</h1>
 <h3 align="center">A passionate fullstack developer from Turkey</h3>
 
