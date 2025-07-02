@@ -34,15 +34,24 @@
 
 ---
 
-#### 📈 GitHub Stats
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight)
+      #### 📈 GitHub Stats  
+      <img src="https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight" />
 
----
+    </td>
+    <td valign="top" width="50%">
 
-#### 📫 Let's connect!
+      #### 📫 Let's connect!  
+      <a href="https://www.linkedin.com/in/beratatabay">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+      </a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratatabay)  
+    </td>
+  </tr>
+</table>
 
 ---
 
