@@ -34,24 +34,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight" width="48%" />
+  <a href="https://www.linkedin.com/in/beratatabay">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" width="48%" />
+  </a>
+</p>
 
-      #### 📈 GitHub Stats  
-      <img src="https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight" />
-
-    </td>
-    <td valign="top" width="50%">
-
-      #### 📫 Let's connect!  
-      <a href="https://www.linkedin.com/in/beratatabay">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-      </a>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
