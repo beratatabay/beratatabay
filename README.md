@@ -44,7 +44,5 @@
 
 ![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight)
 
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
