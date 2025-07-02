@@ -28,7 +28,7 @@
 
 #### 📈 GitHub Stats
 
-![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratatabayGitHubKullaniciAdin&show_icons=true&theme=github_dark&hide_title=true)
+![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight)
 
 ---
 
