@@ -16,14 +16,21 @@
 
 #### 🛠️ Technologies I Work With
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-20232A?logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
+<div align="left">
+  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
+  
+</div>
 ---
 
 #### 📈 GitHub Stats
