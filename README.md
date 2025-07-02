@@ -34,13 +34,15 @@
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight" width="48%" />
-  <a href="https://www.linkedin.com/in/beratatabay">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+#### 📫 Let's connect!
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beratatabay)  
+
+---
+
+#### 📈 GitHub Stats
+
+![Berat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beratatabay&show_icons=true&theme=tokyonight)
 
 ---
 
